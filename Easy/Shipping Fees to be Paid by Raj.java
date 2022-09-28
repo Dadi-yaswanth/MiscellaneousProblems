@@ -1,6 +1,8 @@
 /* Raj has ordered two electronic items and a grocery item from an ecommerce website Nxt Trends. The items weigh X, Y, and Z kgs Respectively.
 
-Free shipping for the order is available for up to D kgs of electronic items and E kgs of grocery items. If the combined weight of these items in respective categories exceeds the limits, then Raj will be charged for the excess weight in each category. Shipping fees are INR 10/kg for electronic items and INR 15/kg for grocery items.
+Free shipping for the order is available for up to D kgs of electronic items and E kgs of grocery items. 
+If the combined weight of these items in respective categories exceeds the limits, then Raj will be charged for the excess weight in each category. 
+Shipping fees are INR 10/kg for electronic items and INR 15/kg for grocery items.
 
 Write a program that calculates the shipping fees to be paid by Raj 
 
